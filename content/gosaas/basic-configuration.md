@@ -31,7 +31,7 @@ Default Parameters
 
 **Home** is for home in your navigation.
 
-**googleAnalitycsID** is for turn on google analytics on your site, give your won analytics ID here.
+**googleAnalitycsID** is for turn on google analytics on your site, give your own analytics ID here.
 
 **nav_buttons** is for main navigation button, you can enable or disable it.
 
